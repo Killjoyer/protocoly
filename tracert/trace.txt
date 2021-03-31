@@ -1,18 +1,18 @@
 traceroute to 195.201.139.41 (195.201.139.41), 30 hops max, 60 byte packets
- 1  _gateway (192.168.131.249)  2.979 ms  3.584 ms  3.942 ms
- 2  192.168.251.2 (192.168.251.2)  21.069 ms  23.477 ms  31.581 ms
- 3  192.168.251.6 (192.168.251.6)  39.107 ms  39.101 ms  39.095 ms
- 4  233.mtsnet.ru (213.87.251.233)  39.536 ms  39.530 ms  39.523 ms
- 5  zoo-cr01-be66.100.ekt.mts-internet.net (195.34.36.193)  38.610 ms  38.603 ms  38.597 ms
- 6  zoo-cr03-be3.66.ekt.mts-internet.net (195.34.53.29)  38.591 ms  35.442 ms  35.413 ms
- 7  vish-cr01-be7.66.kaz.mts-internet.net (212.188.29.85)  44.505 ms  43.934 ms  44.330 ms
- 8  mag9-cr01-be6.16.msk.mts-internet.net (195.34.50.161)  49.637 ms  53.380 ms  53.356 ms
- 9  a197-cr04-be10.77.msk.mts-internet.net (195.34.50.73)  55.717 ms  58.615 ms  55.715 ms
-10  anc-cr03-ae3.77.ff.mts-internet.net (195.34.59.50)  97.887 ms anc-cr03-ae3.177.msk.mts-internet.net (195.34.59.57)  87.191 ms  87.180 ms
-11  static.213.133.118.145.clients.your-server.de (213.133.118.145)  86.926 ms  137.101 ms  137.063 ms
-12  core4.fra.hetzner.com (213.239.245.85)  93.089 ms *  85.914 ms
-13  core12.nbg1.hetzner.com (213.239.245.253)  129.856 ms core12.nbg1.hetzner.com (213.239.224.237)  112.660 ms core12.nbg1.hetzner.com (213.239.245.246)  107.327 ms
-14  spine2.cloud1.nbg1.hetzner.com (85.10.250.214)  107.355 ms spine1.cloud1.nbg1.hetzner.com (85.10.250.210)  101.325 ms spine2.cloud1.nbg1.hetzner.com (85.10.250.214)  101.710 ms
+ 1  _gateway (192.168.52.253)  2.572 ms  3.318 ms  4.173 ms
+ 2  192.168.250.22 (192.168.250.22)  23.526 ms  29.401 ms  29.396 ms
+ 3  192.168.250.6 (192.168.250.6)  33.424 ms  37.199 ms  34.171 ms
+ 4  21.mtsnet.ru (213.87.251.21)  37.856 ms  37.850 ms  37.844 ms
+ 5  asb-cr01-ae66.100.ekt.mts-internet.net (212.188.12.25)  33.729 ms  33.724 ms  33.718 ms
+ 6  zoo-cr03-be1.66.ekt.mts-internet.net (212.188.29.249)  34.449 ms  34.100 ms  33.894 ms
+ 7  vish-cr01-be7.66.kaz.mts-internet.net (212.188.29.85)  60.860 ms  60.009 ms  37.108 ms
+ 8  mag9-cr01-be6.16.msk.mts-internet.net (195.34.50.161)  54.460 ms  54.436 ms  56.482 ms
+ 9  a197-cr04-be10.77.msk.mts-internet.net (195.34.50.73)  57.515 ms  58.952 ms  57.478 ms
+10  anc-cr03-ae3.77.ff.mts-internet.net (195.34.59.50)  96.884 ms  96.982 ms  96.954 ms
+11  static.213.133.118.145.clients.your-server.de (213.133.118.145)  97.327 ms  97.311 ms  97.296 ms
+12  core5.fra.hetzner.com (213.239.224.218)  99.369 ms core1.fra.hetzner.com (213.239.245.125)  90.207 ms core4.fra.hetzner.com (213.239.245.85)  90.174 ms
+13  core11.nbg1.hetzner.com (213.239.224.233)  97.284 ms core12.nbg1.hetzner.com (213.239.252.26)  90.895 ms core12.nbg1.hetzner.com (213.239.245.246)  94.349 ms
+14  spine2.cloud1.nbg1.hetzner.com (85.10.250.214)  122.312 ms spine1.cloud1.nbg1.hetzner.com (85.10.250.210)  94.972 ms spine2.cloud1.nbg1.hetzner.com (213.239.208.222)  122.070 ms
 15  * * *
-16  12277.your-cloud.host (116.203.162.160)  89.555 ms  91.043 ms  91.872 ms
-17  difichento.cusok (195.201.139.41)  91.855 ms * *
+16  12277.your-cloud.host (116.203.162.160)  91.600 ms  94.934 ms  94.715 ms
+17  lovushka.solodushkina (195.201.139.41)  95.615 ms  96.234 ms  93.021 ms
